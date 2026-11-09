@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>CashSync</title>
+  <rect width="64" height="64" rx="14" fill="#12407D"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round">
+    <path d="M15.83 26.75 A17 17 0 0 1 45.40 21.53"/>
+    <path d="M48.17 37.25 A17 17 0 0 1 18.60 42.47"/>
+  </g>
+  <g fill="#FFFFFF">
+    <path d="M48.69 26.35 L48.81 17.22 L40.19 23.04Z"/>
+    <path d="M15.31 37.65 L15.19 46.78 L23.81 40.96Z"/>
+  </g>
+  <circle cx="32" cy="32" r="8.5" fill="#FFD447"/>
+  <circle cx="32" cy="32" r="5.2" fill="none" stroke="#C79A12" stroke-width="1.6"/>
+</svg>
